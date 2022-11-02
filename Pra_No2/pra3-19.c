@@ -11,8 +11,7 @@ int main(void){
     if(yy%4 == 0){
         if((yy/4)%100 == 0){
             printf("閏年です．\n");
-        }
-        else if(yy%100 == 0){
+        }else if(yy%100 == 0){
             printf("閏年ではないです．\n");
         }else{
             printf("閏年です．\n");
