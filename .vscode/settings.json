@@ -1,5 +1,13 @@
 {
     "files.associations": {
-        "time.h": "c"
+        "time.h": "c",
+        "stdio.h": "c",
+        "calculation.h": "c",
+        "randlib.h": "c",
+        "stdlib.h": "c",
+        "namedb.h": "c",
+        "showresult.h": "c",
+        "calculation2.h": "c",
+        "showresult2.h": "c"
     }
 }
