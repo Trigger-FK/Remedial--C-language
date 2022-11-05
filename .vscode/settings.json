@@ -8,6 +8,7 @@
         "namedb.h": "c",
         "showresult.h": "c",
         "calculation2.h": "c",
-        "showresult2.h": "c"
+        "showresult2.h": "c",
+        "malloc.h": "c"
     }
 }
