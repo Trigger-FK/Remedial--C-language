@@ -10,6 +10,7 @@
         "calculation2.h": "c",
         "showresult2.h": "c",
         "malloc.h": "c",
-        "typeinfo": "c"
+        "typeinfo": "c",
+        "studentdatabase.h": "c"
     }
 }
