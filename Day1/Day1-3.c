@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    printf("‚±‚ñ‚É‚¿‚ÍC„‚Ì–¼‘O‚Í%s‚Å‚·D\n”N—î‚Í%dÎ‚Å‚·D\n", "Trigger-FK", 23);
-    printf("ƒCƒjƒVƒƒƒ‹‚ÍC%c‚Å‚·D\n", 'T');
+    printf("ã“ã‚“ã«ã¡ã¯ï¼Œç§ã®åå‰ã¯%sã§ã™ï¼\nå¹´é½¢ã¯%dæ­³ã§ã™ï¼\n", "Trigger-FK", 23);
+    printf("ã‚¤ãƒ‹ã‚·ãƒ£ãƒ«ã¯ï¼Œ%cã§ã™ï¼\n", 'T');
     printf("%f + %f = %f\n", 1.2, 2.7, 1.2 + 2.7);
 }

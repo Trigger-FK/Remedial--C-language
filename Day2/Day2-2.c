@@ -11,5 +11,5 @@ void main(){
     avg = (a+b) / 2.0;
     printf("%d + %d = %d\n", a, b, add);
     printf("%d - %d = %d\n", a, b, sub);
-    printf("%d‚Æ%d‚Ì•½‹Ï’lF%f\n", a, b, avg);
+    printf("%dã¨%dã®å¹³å‡å€¤ï¼š%f\n", a, b, avg);
 }

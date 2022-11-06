@@ -29,7 +29,7 @@ int main(void){
     return 0;
 }
 
-void showResult(int *p){    //ポイント変数の定義のようなもの -> int *~
+void showResult(int *p){    //ポイント変数の定義のようなもの: int *~
     int i;    //for文用
     for(i=0; i<SIZE; i++){
         printf("%d ", *p);    //アドレス先の値を表示
@@ -37,7 +37,7 @@ void showResult(int *p){    //ポイント変数の定義のようなもの -> i
     }
 }
 
-void twice(int *p){    //ポイント変数の定義のようなもの -> int *~
+void twice(int *p){    //ポイント変数の定義のようなもの: int *~
     int i;    //for文用
     for(i=0; i<SIZE; i++){
         *p *= 2;    //アドレス先の値を二倍
